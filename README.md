@@ -1,4 +1,5 @@
 # bitacoRa
 Bitácora de prueba
-Visualización  de .geojson
-Visualización de .topojson
+
+1. Visualización  de .geojson
+2. Visualización de .topojson
