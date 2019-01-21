@@ -1,4 +1,4 @@
-# bitacoRa
+### bitacoRa
 
 Bitácora  de prueba ....
 
@@ -16,3 +16,6 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 **TopoJSON** es una extensión de GeoJSON que codifica topología. TopoJSON introduce un nuevo tipo, *"Topology"*, que contiene objetos GeoJSON. 
 
 > [Ejemplo  de .TopoJOSON](/carto/mup60.topojson)
+
+
+[Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
