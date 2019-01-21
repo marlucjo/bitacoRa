@@ -11,11 +11,11 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 
 **GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: *Point*, *LineString*, *Polygon*, *MultiPoint*, *MultiLineString*, *MultiPolygon* y *GeometryCollection*.
 
-> [Ejemplo de .GeoJSON](./carto/mup60.geojson)
+> [Ejemplo .GeoJSON](./carto/mup60.geojson)
 
 **TopoJSON** es una extensión de GeoJSON que codifica topología. TopoJSON introduce un nuevo tipo, *"Topology"*, que contiene objetos GeoJSON. 
 
-> [Ejemplo  de .TopoJOSON](/carto/mup60.topojson)
+> [Ejemplo .TopoJOSON](/carto/mup60.topojson)
 
 ### Referencias
 
