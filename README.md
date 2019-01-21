@@ -9,7 +9,7 @@ Bitácora  de prueba ....
 **JSON** (JavaScript Object Notation) está diseñado para ser manipulado con el lenguaje JavaScript (que implementan la 
 mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain.
 
-**GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: *Point* , *LineString*, *Polygon*, *MultiPoint* ,* MultiLineString*, *MultiPolygon* y *GeometryCollection*.
+**GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: *Point* , *LineString*, *Polygon*, *MultiPoint* ,*MultiLineString*, *MultiPolygon* y *GeometryCollection*.
 
 > [Ejemplo de .GeoJSON](./carto/mup60.geojson)
 
