@@ -20,3 +20,5 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 ### Referencias
 
 [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
+
+[Working with non code files](https://help.github.com/categories/working-with-non-code-files/)
