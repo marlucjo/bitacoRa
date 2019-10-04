@@ -9,6 +9,9 @@
 
 **GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon y GeometryCollection.
 
+https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
+
+
 example:
 
 .. code-block:: python
