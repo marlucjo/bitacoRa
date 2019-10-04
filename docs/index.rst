@@ -21,3 +21,12 @@ example:
 
    def main():
        antigravity.fly()
+
+Make a request
+--------------
+
+You can make requests using the :func:`api.request` module.
+It makes HTTP requests against our website.
+Here is the basic function signature:
+
+.. autofunction:: api.request
