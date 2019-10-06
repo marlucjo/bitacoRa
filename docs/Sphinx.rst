@@ -27,3 +27,14 @@ example:
        antigravity.fly()
 
 .. warning:: This is a Warning!
+
+### TOC
+
+Here are a few notes about the different options
+
+**maxdepth** is used to indicates the depth of the tree.
+**numbered** adds relevant section numbers.
+**titlesonly** adds only the main title of each document
+**glob** can be used to indicate that * and ? characters are used to indicate patterns.
+**hidden** hides the toctree. It can be used to include files that do not need to be shown (e.g. a bibliography).
+
