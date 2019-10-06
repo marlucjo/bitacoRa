@@ -33,9 +33,10 @@ example:
     :numbered:
     :titlesonly:
     :glob:
-    
+    :hidden:
 
     intro.rst
     a.rst
+    intro.rst
     
     
