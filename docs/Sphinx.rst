@@ -16,6 +16,27 @@ https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax
 
 https://restructuredtext.readthedocs.io/en/latest/sphinx_tutorial.html
 
+##########################
+# with overline, for parts
+##########################
+
+*****************************
+* with overline, for chapters
+*****************************
+
+=, for sections
+===============
+
+-, for subsections
+------------------
+
+
+^, for subsubsections
+^^^^^^^^^^^^^^^^^^^^^
+
+“, for paragraphs
+"""""""""""""""""
+
 example:
 
 .. code-block:: python
