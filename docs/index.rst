@@ -13,6 +13,8 @@ https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
 
 https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax
 
+https://restructuredtext.readthedocs.io/en/latest/sphinx_tutorial.html
+
 example:
 
 .. code-block:: python
@@ -31,9 +33,9 @@ example:
     :numbered:
     :titlesonly:
     :glob:
-    :hidden:
+    
 
     intro.rst
     a.rst
-    Sentinel2.ipynb
+    
     
