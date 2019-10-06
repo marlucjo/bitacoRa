@@ -35,4 +35,5 @@ example:
 
     intro.rst
     a.rst
+    Sentinel2.ipynb
     
