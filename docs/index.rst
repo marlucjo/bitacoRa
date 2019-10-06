@@ -11,6 +11,7 @@
 
 https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
 
+https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax
 
 example:
 
@@ -23,3 +24,15 @@ example:
        antigravity.fly()
 
 .. warning:: This is a Warning!
+
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+    :titlesonly:
+    :glob:
+    :hidden:
+
+    intro.rst
+    a.rst
+    
