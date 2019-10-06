@@ -8,3 +8,22 @@ El servicio **Read the Docs** provee alojamiento de documentación hecha con Sph
 El archivo clave es index.rst, que es el índice de nuestra documentación. El contenido que coloquemos ahí será el que se vea en la página principal. Lo normal es poner una introducción y un índice. Por defecto, index.rst incluye un par de encabezados, un índice vacío, un glosario y otros.
 
 Para añadir secciones al índice, simplemente hay que crear nuevos archivos .rst y listarlos. 
+
+
+https://www.ericholscher.com/blog/2016/jul/1/sphinx-and-rtd-for-writers/
+
+https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax
+
+https://restructuredtext.readthedocs.io/en/latest/sphinx_tutorial.html
+
+example:
+
+.. code-block:: python
+   :linenos:
+
+   import antigravity
+
+   def main():
+       antigravity.fly()
+
+.. warning:: This is a Warning!
