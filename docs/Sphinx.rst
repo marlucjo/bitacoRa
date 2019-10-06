@@ -29,7 +29,9 @@ example:
 
 .. warning:: This is a Warning!
 
-### TOC
+
+TOC
+***
 
 Here are a few notes about the different options
 
