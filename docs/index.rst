@@ -21,4 +21,8 @@
     Sphinx.rst
     
 
-https://iruelas.files.wordpress.com/2012/03/12.gif
+.. image:: https://iruelas.files.wordpress.com/2012/03/12.gif
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
