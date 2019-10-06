@@ -18,7 +18,5 @@
     :hidden:
 
     intro.rst
-    a.rst
-    intro.rst
-    
+    Sphinx.rst
     
