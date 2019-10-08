@@ -18,6 +18,7 @@ https://restructuredtext.readthedocs.io/en/latest/sphinx_tutorial.html
 
 https://martinber.github.io/guia-sphinx/escribir.html
 
+https://automating-gis-processes.github.io/CSC/master/lessons/L1/Intro-Python-GIS.html
 
 example:
 
