@@ -16,6 +16,8 @@ https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax
 
 https://restructuredtext.readthedocs.io/en/latest/sphinx_tutorial.html
 
+https://martinber.github.io/guia-sphinx/escribir.html
+
 
 example:
 
