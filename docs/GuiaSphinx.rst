@@ -1,3 +1,5 @@
+.. index:: Aims
+
 Guia Sphinx  
 ===========
 
