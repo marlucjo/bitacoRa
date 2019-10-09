@@ -1,5 +1,32 @@
-¿Qué es?
+.. image:: https://iruelas.wordpress.com/cropped-dsc058055280165162037386095-jpg
+    :width: 200px
+    :align: center
+    :height: 100px
+    :width: 200px
+    :align: center
+    :height: 50px
+    :alt: alternate text
+    
+Bitácora
 ========
+
+Título 1
+--------
+
+Título 2
+~~~~~~~~
+
+Título 3
+^^^^^^^^
+
+Título 4
+""""""""
+
+
+   
+
+Glosario
+-------- 
 
 **GML**, acrónimo inglés de Geography Markup Language (Lenguaje de Marcado Geográfico), es un lenguaje basado en XML (eXtensible Markup Language) escrito en un esquema XML para el modelado, transporte y almacenamiento de información geográfica.
 
@@ -9,9 +36,8 @@
 
 **GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon y GeometryCollection.
 
-
 .. toctree::
-    :maxdepth: 2
+   :maxdepth: 4
     :numbered:
     :titlesonly:
     :glob:
@@ -19,11 +45,5 @@
 
     intro.rst
     Sphinx.rst
-    Sentinel2.ipynb
-    
 
-.. image:: https://iruelas.files.wordpress.com/2012/03/12.gif
-    :width: 200px
-    :align: center
-    :height: 100px
-    :alt: alternate text
+
