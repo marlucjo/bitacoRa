@@ -1,1 +1,15 @@
-
+ "| Bandas | Resolución Espacial (m) | Resolución Espectral (nm)| \n",
+    "|:----------:|:----------:|:----------:|\n",
+    "|Banda 1 (Aerosol) |60| 443 |\n",
+    "|Banda 2 (Azul)| 10 |490| \n",
+    "|Banda 3 (Verde)| 10| 560| \n",
+    "|Banda 4 (Rojo)| 10| 665| \n",
+    "|Banda 5 (Infrarrojo cercano -NIR)| 20| 705| \n",
+    "|Banda 6 (NIR)| 20| 740| \n",
+    "|Banda 7 (NIR)| 20| 783| \n",
+    "|Banda 8 (NIR)| 10| 842| \n",
+    "|Banda 8a (Infrarrojo cercano - NIR)| 20| 865| \n",
+    "|Banda 9 (Vapor de Agua)| 60| 9945| \n",
+    "|Banda 10 (Cirrus)| 60| 1375| \n",
+    "|Banda 11 (Infrarrojo Lejano - SWIR)| 20| 1610| \n",
+    "|Banda 12 ( SWIR)| 20| 2190|"
