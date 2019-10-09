@@ -37,3 +37,4 @@ Glosario
     :hidden:
 
     GuiaSphinx.rst
+    book/GuiaSphinx.rst
