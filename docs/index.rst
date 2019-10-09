@@ -30,7 +30,7 @@ Glosario
 **GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon y GeometryCollection.
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :numbered:
     :titlesonly:
     :glob:
