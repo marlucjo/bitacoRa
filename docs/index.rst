@@ -1,12 +1,3 @@
-.. image:: https://iruelas.files.wordpress.com/2012/10/cropped-marco.jpg
-    :width: 200px
-    :align: center
-    :height: 100px
-    :width: 200px
-    :align: center
-    :height: 50px
-    :alt: alternate text
-    
 Bitácora
 ========
 
@@ -46,6 +37,6 @@ Glosario
     :hidden:
 
     intro.rst
-    book/GuiaSphinx
+    book/GuiaSphinx.rst
 
 
