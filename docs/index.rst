@@ -46,6 +46,6 @@ Glosario
     :hidden:
 
     intro.rst
-    book/Sphinx.rst
+    book/GuiaSphinx
 
 
