@@ -11,11 +11,16 @@ El archivo clave es *index.rst*, que es el índice de nuestra documentación. El
 
 Para añadir secciones al índice, simplemente hay que crear nuevos archivos '.rst' y listarlos. 
 
+
+.. index:: Título 1
+
 Título 1
 --------
 **negrita**, *cursiva*,
 ``código``.
 
+
+.. index:: Título 2
 Título 2
 ~~~~~~~~
 .. warning:: This is a Warning!
