@@ -17,5 +17,5 @@ Bitácora
     :glob:
     :hidden:
 
-    books/GuiaSphinx.rst
-    notebooks/Sentinel2.ipynb
+    source/books/GuiaSphinx.rst
+    source/notebooks/Sentinel2.ipynb
