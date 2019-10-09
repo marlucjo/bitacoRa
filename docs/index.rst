@@ -1,4 +1,4 @@
-.. image:: https://iruelas.wordpress.com/cropped-dsc058055280165162037386095-jpg
+.. image:: https://iruelas.files.wordpress.com/2012/10/cropped-marco.jpg
     :width: 200px
     :align: center
     :height: 100px
@@ -12,6 +12,8 @@ Bitácora
 
 Título 1
 --------
+**negrita**, *cursiva*,
+``código``.
 
 Título 2
 ~~~~~~~~
@@ -44,6 +46,6 @@ Glosario
     :hidden:
 
     intro.rst
-    Sphinx.rst
+    book/Sphinx.rst
 
 
