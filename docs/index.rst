@@ -16,6 +16,7 @@ Bitácora
     :titlesonly:
     :glob:
     :hidden:
-
+    :caption: Contenidos:
+    
     source/GuiaSphinx.rst
     source/Sentinel2.rst
