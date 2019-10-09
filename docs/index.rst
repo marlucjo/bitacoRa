@@ -37,3 +37,4 @@ Glosario
     :hidden:
 
     book/GuiaSphinx.rst
+    Sentinel2.ipynb
