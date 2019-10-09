@@ -38,6 +38,6 @@ Glosario
    :glob:
    :hidden:
    
-   book/GuiaSphinx.rst
+   GuiaSphinx
 
 
