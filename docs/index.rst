@@ -19,4 +19,4 @@ Bitácora
     :caption: Contenidos:
     
     source/GuiaSphinx.rst
-    source/Sentinel2.rst
+    source/books/Sentinel2.rst
