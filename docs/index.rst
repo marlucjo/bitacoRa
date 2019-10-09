@@ -18,3 +18,4 @@ Bitácora
     :hidden:
 
     source/GuiaSphinx.rst
+    source/books/Sentinel2.rst
