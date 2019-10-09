@@ -17,4 +17,4 @@ Bitácora
     :glob:
     :hidden:
 
-    source/Guia.rst
+    source/GuiaSphinx.rst
