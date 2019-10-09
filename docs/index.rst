@@ -36,5 +36,4 @@ Glosario
     :glob:
     :hidden:
 
-    GuiaSphinx.rst
     book/GuiaSphinx.rst
