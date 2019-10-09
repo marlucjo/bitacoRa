@@ -1,23 +1,6 @@
 Bitácora
 ========
 
-Título 1
---------
-**negrita**, *cursiva*,
-``código``.
-
-Título 2
-~~~~~~~~
-
-Título 3
-^^^^^^^^
-
-Título 4
-""""""""
-
-
-   
-
 Glosario
 -------- 
 
