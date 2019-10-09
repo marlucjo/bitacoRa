@@ -11,7 +11,7 @@ Bitácora
 **GeoJSON** es un formato de intercambio de datos geoespaciales basado en JSON. Soporta los siguientes tipos de geometría: Point, LineString, Polygon, MultiPoint, MultiLineString, MultiPolygon y GeometryCollection.
 
 .. toctree::
-    :maxdepth: 4
+    :maxdepth: 2
     :numbered:
     :titlesonly:
     :glob:
