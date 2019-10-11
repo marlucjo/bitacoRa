@@ -63,3 +63,10 @@ Referencias
     the body of the sidebar, and are
     interpreted as body elements.
 
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+
