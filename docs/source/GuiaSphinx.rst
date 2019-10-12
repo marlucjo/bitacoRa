@@ -55,6 +55,8 @@ Referencias
 - https://martinber.github.io/guia-sphinx/escribir.html
 - https://automating-gis-processes.github.io/CSC/master/lessons/L1/Intro-Python-GIS.html
 - https://martinber.github.io/guia-sphinx/escribir.html
+- https://www.ibm.com/developerworks/ssa/opensource/library/os-sphinx-documentation/index.html
+
 
 .. sidebar:: Sidebar Title
     :subtitle: Optional Sidebar Subtitle
