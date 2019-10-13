@@ -20,3 +20,4 @@ Bitácora
     
     source/GuiaSphinx.rst
     source/books/Sentinel2.rst
+    source/notebooks/Sentinel2.ipynb
