@@ -36,3 +36,9 @@ Insertamos parte del código de un fichero:
    :language: python
    :linenos:
    :lines: 1-10
+
+.. literalinclude:: ndvi.r
+   :language: R
+   :linenos:
+   :lines: 1-3
+
