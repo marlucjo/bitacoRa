@@ -27,4 +27,6 @@ Sentinel 2
 |Banda 11 (Infrarrojo Lejano - SWIR)| 20| 1610|
 |Banda 12 ( SWIR)| 20| 2190|
 
+
+.. note:: Bandas Sentinel2.
    
