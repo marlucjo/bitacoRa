@@ -35,10 +35,15 @@ Insertamos parte del código de un fichero:
 .. literalinclude:: ndvi.py
    :language: python
    :linenos:
-   :lines: 1-10
+   :lines: 1-5
 
 .. literalinclude:: ndvi.r
    :language: R
+   :linenos:
+   :lines: 1-3
+
+.. literalinclude:: ../Notebooks/Sentinel2.ipynb
+   :language: python
    :linenos:
    :lines: 1-3
 
