@@ -1,6 +1,10 @@
 Sentinel 2
 ----------
 
+.. image:: https://landsat.gsfc.nasa.gov/wp-content/uploads/2015/06/Landsat.v.Sentinel-2.png
+  :width: 400
+  :alt: Alternative text
+
 +------------------+-------------------------+--------------------------+
 | Bandas           | Resolución Espacial (m) | Resolución Espectral (nm)|
 +==================+=========================+==========================+
@@ -39,11 +43,6 @@ Insertamos parte del código de un fichero:
 
 .. literalinclude:: ndvi.r
    :language: R
-   :linenos:
-   :lines: 1-3
-
-.. literalinclude:: ../Notebooks/Sentinel2.ipynb
-   :language: python
    :linenos:
    :lines: 1-3
 
