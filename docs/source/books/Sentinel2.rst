@@ -30,3 +30,9 @@ Sentinel 2
 
 .. note:: Bandas Sentinel2.
    
+Insertamos parte del código de un fichero:
+
+.. literalinclude:: ndvi.py
+   :language: python
+   :linenos:
+   :lines: 1-10
