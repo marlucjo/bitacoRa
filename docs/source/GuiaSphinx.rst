@@ -56,7 +56,7 @@ Referencias
 - https://automating-gis-processes.github.io/CSC/master/lessons/L1/Intro-Python-GIS.html
 - https://martinber.github.io/guia-sphinx/escribir.html
 - https://www.ibm.com/developerworks/ssa/opensource/library/os-sphinx-documentation/index.html
-
+- https://pythonhosted.org/an_example_pypi_project/sphinx.html
 
 .. sidebar:: Sidebar Title
     :subtitle: Optional Sidebar Subtitle
@@ -71,4 +71,18 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+Función 
+"""""""
+
+.. function:: format_exception(etype, value, tb[, limit=None])
+
+   Format the exception with a traceback.
+
+   :param etype: exception type
+   :param value: exception value
+   :param tb: traceback object
+   :param limit: maximum number of stack frames to show
+   :type limit: integer or None
+   :rtype: list of strings
 
