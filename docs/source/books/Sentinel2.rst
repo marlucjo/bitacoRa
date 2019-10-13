@@ -5,6 +5,11 @@ Sentinel 2
   :width: 400
   :alt: Alternative text
 
+.. image::https://idecyl.jcyl.es/geoserver/ps/wms?service=WMS&version=1.1.0&request=GetMap&layers=ps%3Aznie_cyl_montes_up&bbox=163530.578125%2C4440891.0%2C603087.375%2C4790762.5&width=768&height=611&srs=EPSG%3A25830&format=image%2Fpng
+  :width: 400
+  :alt: MUP
+
+
 +------------------+-------------------------+--------------------------+
 | Bandas           | Resolución Espacial (m) | Resolución Espectral (nm)|
 +==================+=========================+==========================+
