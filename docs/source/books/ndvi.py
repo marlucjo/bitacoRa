@@ -9,7 +9,7 @@ import numpy as np
 filename = 'Navarredonda_Urban.tif'
 g = gdal.Open(filename, GA_ReadOnly)
 if g is None:
-    raise IOError, "Couldn't open baikal_subset.tif"
+    raise IOError, "Couldn't open Navarredonda_Urban.tif"
 b3 = g.GetRasterBand(8).ReadAsArray().astype(np.float32)
 b4 = g.GetRasterBand(4).ReadAsArray().astype(np.float32)
  
