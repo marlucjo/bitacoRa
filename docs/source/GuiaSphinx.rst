@@ -15,32 +15,53 @@ El archivo clave es *index.rst*, que es el índice de nuestra documentación. El
 Para añadir secciones al índice, simplemente hay que crear nuevos archivos '.rst' y listarlos. 
 
 
-La documentación se escribe en archivos .rst, que están ubicados en una carpeta llamada source. A partir de estos archivos, que se escriben en reStructuredText, se genera la página web. En esos mismos archivos .rst uno especifica qué docstrings extraer desde el código fuente (Python). Más adelante hay ejemplos y creo que se entiende mejor.
+La documentación se escribe en archivos ``.rst``, que están ubicados en una
+carpeta llamada ``source``. A partir de estos archivos, que se escriben en
+`reStructuredText`_, se genera la página web. En esos mismos archivos ``.rst``
+uno especifica qué *docstrings* extraer desde el código fuente (Python). Más
+adelante hay ejemplos y creo que se entiende mejor.
 
-Los archivos y carpetas pueden organizarse de varias formas, la forma recomendada de organizar el proyecto es:
+.. _estructura:
 
-.
-├── docs
-│   ├── build
-│   │   ├── ...
-│   │   └── html
-│   │       ├── ...
-│   │       └── index.html
-│   ├── Makefile
-│   └── source
-│       ├── ...
-│       ├── conf.py
-│       └── index.rst
-├── LICENSE.txt
-├── README.md
-└── miproyecto
-    ├── ...
-    └── main.py
-En docs va todo lo relacionado con la documentación, dentro hay un Makefile y las carpetas source y build.
+Los archivos y carpetas pueden organizarse de varias formas, la forma
+`recomendada`__ de organizar el proyecto es::
 
-source tiene la documentación escrita en reStructuredText y un archivo conf.py con las configuraciones usadas por Sphinx. Dentro de build está la misma documentación en html ya generada por Sphinx. Por último el Makefile permite generar la documentación (que se pone en build) con un comando.
+  .
+  ├── docs
+  │   ├── build
+  │   │   ├── ...
+  │   │   └── html
+  │   │       ├── ...
+  │   │       └── index.html
+  │   ├── Makefile
+  │   └── source
+  │       ├── ...
+  │       ├── conf.py
+  │       └── index.rst
+  ├── LICENSE.txt
+  ├── README.md
+  └── miproyecto
+      ├── ...
+      └── main.py
 
-Después en otra carpeta aparte, miproyecto está el código. LICENSE.txt y README.md se suelen agregar para presentar el proyecto en por ejemplo GitHub.
+__ http://docs.python-guide.org/en/latest/writing/structure/
+
+En ``docs`` va todo lo relacionado con la documentación, dentro hay un
+``Makefile`` y las carpetas ``source`` y ``build``.
+
+``source`` tiene la documentación escrita en `reStructuredText`_ y un archivo
+``conf.py`` con las configuraciones usadas por `Sphinx`_.  Dentro de ``build``
+está la misma documentación en *html* ya generada por `Sphinx`_. Por último el
+``Makefile`` permite generar la documentación (que se pone en ``build``) con un
+comando.
+
+Después en otra carpeta aparte, ``miproyecto`` está el código. ``LICENSE.txt`` y
+``README.md`` se suelen agregar para presentar el proyecto en por ejemplo
+`GitHub`_.
+
+.. _Sphinx: http://www.sphinx-doc.org/en/stable/
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+.. _GitHub: https://github.com/
 
 
 
