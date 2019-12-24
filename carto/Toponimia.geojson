@@ -7,5 +7,9 @@
 { "type": "Feature", "properties": { "TOPONIMO": "Alto de La Cueva", "COMENTARIO": null }, "geometry": { "type": "Point", "coordinates": [ -2.644813186300454, 42.289581379164417 ] } }
 ,
 { "type": "Feature", "properties": { "TOPONIMO": "Alto del Ventisquero", "COMENTARIO": null }, "geometry": { "type": "Point", "coordinates": [ -2.647151829118971, 42.28784139633381 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "Arroyo de La Berniza", "COMENTARIO": "santa coloma" }, "geometry": { "type": "Point", "coordinates": [ -2.624707028623047, 42.368348010747482 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "Barronegro", "COMENTARIO": "témino municipal de nájera" }, "geometry": { "type": "Point", "coordinates": [ -2.763702122537557, 42.473125255923399 ] } }
 ]
-}
+  }
