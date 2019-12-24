@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "TOPONIMO": "Aguilones", "COMENTARIO": "témino municipal de san asensi" }, "geometry": { "type": "Point", "coordinates": [ -2.740985923867917, 42.52414848290465 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "Alto de La Cueva", "COMENTARIO": null }, "geometry": { "type": "Point", "coordinates": [ -2.644813186300454, 42.289581379164417 ] } }
+,
+{ "type": "Feature", "properties": { "TOPONIMO": "Alto del Ventisquero", "COMENTARIO": null }, "geometry": { "type": "Point", "coordinates": [ -2.647151829118971, 42.28784139633381 ] } }
+]
+}
