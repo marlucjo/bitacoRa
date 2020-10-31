@@ -2,7 +2,6 @@
 Bitácora
 ========
 
-
 .. toctree::
     :maxdepth: 3
     :numbered:
@@ -14,3 +13,10 @@ Bitácora
     source/GuiaSphinx.rst
     source/books/Sentinel2.rst
     source/notebooks/Sentinel2.ipynb
+
+Índices y tablas
+================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
