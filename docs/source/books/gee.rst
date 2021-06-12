@@ -1,6 +1,14 @@
 `Google Earth Engine <https://hasencios.github.io/GEE_BASICO_SENAMHI/>`_
 -------------------
 
+.. image:: https://images.app.goo.gl/SGNCfhrzZXW1qqGC6
+  :width: 400
+  :align:   center
+  :alt: Esquema
+  
+  
+https://images.app.goo.gl/y395wS7dVXKEbqDUA
+
 `Acceso a GEE y tips JavaScript 
 <https://hasencios.github.io/GEE_BASICO_SENAMHI/00-access-javascript/index.html>`_
 
@@ -21,3 +29,12 @@
 
 `Resumen
 <https://hasencios.github.io/GEE_BASICO_SENAMHI/07-wrap-up/index.html>`_
+
+.. image:: https://images.app.goo.gl/y395wS7dVXKEbqDUA
+  :width: 400
+  :align:   center
+  :alt: Lidar-gee
+  
+
+
+
