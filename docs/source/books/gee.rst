@@ -4,7 +4,7 @@
 .. image:: https://images.app.goo.gl/SGNCfhrzZXW1qqGC6
   :width: 400
   :align:   center
-  :alt: Esquema
+  :alt: Esquema de trabajo
   
   
 https://images.app.goo.gl/y395wS7dVXKEbqDUA
@@ -29,6 +29,16 @@ https://images.app.goo.gl/y395wS7dVXKEbqDUA
 
 `Resumen
 <https://hasencios.github.io/GEE_BASICO_SENAMHI/07-wrap-up/index.html>`_
+
+
+Esquemas
+********
+
+.. image:: https://images.app.goo.gl/AgLUuHBPeak15dAW7
+  :width: 400
+  :align:   center
+  :alt: python-gee
+  
 
 .. image:: https://images.app.goo.gl/y395wS7dVXKEbqDUA
   :width: 400
