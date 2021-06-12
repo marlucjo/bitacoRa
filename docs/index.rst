@@ -12,6 +12,7 @@ Bitácora
     
     source/GuiaSphinx.rst
     source/books/Sentinel2.rst
+    source/books/gee.rst
     source/notebooks/Sentinel2.ipynb
 
 Índices y tablas
