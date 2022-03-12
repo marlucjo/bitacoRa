@@ -2,6 +2,8 @@
 
 Bitácora  de prueba ....
 
+https://www.r-bloggers.com/2019/06/r-binder-interactive-jupyter-notebooks-in-the-cloud/
+
 # Specifying an R environment with a runtime.txt file
 
 Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/r/HEAD?filepath=index.ipynb)
