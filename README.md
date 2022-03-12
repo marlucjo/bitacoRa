@@ -23,6 +23,8 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 
 - [Binder](https://www.r-bloggers.com/2019/06/r-binder-interactive-jupyter-notebooks-in-the-cloud/)
 
+- [Binder ejemplos](https://github.com/binder-examples/r)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD)
 
 
