@@ -6,14 +6,7 @@ https://www.r-bloggers.com/2019/06/r-binder-interactive-jupyter-notebooks-in-the
 
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/r/HEAD?filepath=index.ipynb)
-
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
-
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
-
-https://mybinder.org/v2/gh/binder-examples/r/HEAD?filepath=index.ipynb
-https://mybinder.org/v2/gh/marlucjo/bitacoRa/r/HEAD?filepath=index.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD)
 
 
 **GML**, acrónimo inglés de Geography Markup Language (Lenguaje de Marcado Geográfico), es un lenguaje basado en XML (eXtensible Markup Language) escrito en un esquema XML para el modelado, transporte y almacenamiento de información geográfica.
