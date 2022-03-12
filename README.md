@@ -4,12 +4,13 @@ Bitácora  de prueba ....
 
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/r/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/r/HEAD?filepath=index.ipynb)
 
 RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
 
 RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
 
+https://mybinder.org/v2/gh/binder-examples/r/HEAD?filepath=index.ipynb
 https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD
 
 
