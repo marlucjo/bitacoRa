@@ -17,9 +17,11 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 
 ### Referencias
 
-[Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
+- [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 
-[Working with non code files](https://help.github.com/categories/working-with-non-code-files/)
+- [Working with non code files](https://help.github.com/categories/working-with-non-code-files/)
+
+- [Binder](https://www.r-bloggers.com/2019/06/r-binder-interactive-jupyter-notebooks-in-the-cloud/)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD)
 
