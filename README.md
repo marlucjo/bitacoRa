@@ -1,14 +1,5 @@
 # bitacoRa
 
-Bitácora  de prueba ....
-
-https://www.r-bloggers.com/2019/06/r-binder-interactive-jupyter-notebooks-in-the-cloud/
-
-# Specifying an R environment with a runtime.txt file
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD)
-
-
 **GML**, acrónimo inglés de Geography Markup Language (Lenguaje de Marcado Geográfico), es un lenguaje basado en XML (eXtensible Markup Language) escrito en un esquema XML para el modelado, transporte y almacenamiento de información geográfica.
 
 **Cross-Domain** es un mecanismo de seguridad de las comunicaciones en navegadores actuales. Evitan que un script (XMLHttpRequest de AJAX) o una aplicación (Flash, Silverlight) de una página web pueda acceder a un servidor web diferente del que residen. En otras palabras, no es posible solicitar desde un cliente un fichero XML o GML a un servidor distinto del que se descargó la aplicación web.
@@ -29,3 +20,7 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 [Mapping geoJSON files on GitHub](https://help.github.com/articles/mapping-geojson-files-on-github)
 
 [Working with non code files](https://help.github.com/categories/working-with-non-code-files/)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD)
+
+
