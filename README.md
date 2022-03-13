@@ -25,6 +25,8 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 
 - [Binder ejemplos](https://github.com/binder-examples/r)
 
+- [Binder ejemplos más completo](https://github.com/AuthorCarpentry/carpentry-R-ecology-report)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marlucjo/bitacoRa/HEAD)
 
 
