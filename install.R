@@ -1,7 +1,2 @@
-install.packages("tidyverse")
-install.packages("rmarkdown")
-install.packages("httr")
-install.packages("shinydashboard")
-install.packages('leaflet')
-install.packages("randomForest")
-install.packages("ipyleaflet")
+install.packages(c("tidyverse","rmarkdown","httr","shinydashboard","leaflet","randomForest",
+                   "ipyleaflet")
