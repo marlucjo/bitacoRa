@@ -32,7 +32,7 @@ mayoría de los clientes web) como mecanismo que permite sortear el Cross-Domain
 
 ### Want to play with these notebooks online without having to install anything?
 
-* <a href="https://colab.research.google.com/github/marlucjo/bitacora/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (recommended)
+* <a href="https://colab.research.google.com/github/marlucjo/bitacoRa/blob/main/" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> (recommended)
 
 ⚠ _Colab provides a temporary environment: anything you do will be deleted after a while, so make sure you download any data you care about._
 
