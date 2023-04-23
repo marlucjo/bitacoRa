@@ -48,7 +48,7 @@ Other services may work as well, but I have not fully tested them:
 
 * Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?filepath=index.ipynb)
   
-* Jupyter+R_ej: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/R/master?filepath=index.ipynb)
+* Jupyter+R_ej: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?filepath=R/index.ipynb)
   
 * RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?urlpath=rstudio)
 
