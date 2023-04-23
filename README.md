@@ -47,7 +47,9 @@ Other services may work as well, but I have not fully tested them:
 * <a href="https://homl.info/deepnote3/"><img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg" alt="Launch in Deepnote" /></a>
 
 * Jupyter+R: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?filepath=index.ipynb)
-
+  
+* Jupyter+R_ej: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master/R?filepath=index.ipynb)
+  
 * RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?urlpath=rstudio)
 
 * RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?urlpath=shiny/bus-dashboard/)
