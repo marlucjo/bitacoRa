@@ -55,7 +55,7 @@ Other services may work as well, but I have not fully tested them:
 * RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?urlpath=shiny/bus-dashboard/)
   
 *JupyterLite: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]
-https://jupyterlite.rtfd.io/en/latest/try/lab
+(https://jupyterlite.rtfd.io/en/latest/try/lab)
   
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
