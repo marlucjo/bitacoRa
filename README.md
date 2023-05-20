@@ -53,26 +53,14 @@ Other services may work as well, but I have not fully tested them:
 * RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?urlpath=rstudio)
 
 * RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/marlucjo/bitacoRa/master?urlpath=shiny/bus-dashboard/)
-
+  
+*JupyterLite: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)]
+https://jupyterlite.rtfd.io/en/latest/try/lab
+  
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
 </details>
 
-# JupyterLite
-
-[![ci-badge]][ci] [![lite-badge]][lite] [![binder-badge]][binder] [![docs-badge]][docs]
-
-[ci-badge]: https://github.com/jupyterlite/jupyterlite/workflows/Build/badge.svg
-[lite-badge]: https://jupyterlite.rtfd.io/en/latest/_static/badge.svg
-[lite]: https://jupyterlite.rtfd.io/en/latest/try/lab
-[ci]: https://github.com/jupyterlite/jupyterlite/actions?query=branch%3Amain
-[binder-badge]: https://mybinder.org/badge_logo.svg
-[binder]: https://mybinder.org/v2/gh/jupyterlite/jupyterlite/main?urlpath=lab
-[docs-badge]: https://readthedocs.org/projects/jupyterlite/badge/?version=latest
-[docs]: https://jupyterlite.readthedocs.io/en/latest/?badge=latest
-
-JupyterLite is a JupyterLab distribution that **runs entirely in the browser** built
-from the ground-up using JupyterLab components and extensions.
 
 
 
